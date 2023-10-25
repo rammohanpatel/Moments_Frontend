@@ -1,0 +1,11 @@
+.circular{
+    margin:300px
+}
+
+@media (max-width:768px){
+    .circular{
+
+     margin-top:30px;
+     margin-left:160px;
+}
+}
